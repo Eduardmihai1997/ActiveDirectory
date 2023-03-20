@@ -29,7 +29,8 @@ In this lab, I am going to configure and run an Active Directory home lab Enviro
 
 - <b>Creating a dedicated Domain Admin Account</b>
 - <b>Make a domain admin</b> 
-- <b>Creating an organizational Unit
-<img src="https://i.imgur.com/RSMyZp9.png" height="80%" width="80%" />
+- <b>Creating an organizational </b> 
+- <b>Running a configured script(to create new users)</b>
+<img src="https://i.imgur.com/IxWDQzn.png" height="80%" width="80%" />
  <br></br>
 
