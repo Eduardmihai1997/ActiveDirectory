@@ -34,3 +34,7 @@ In this lab, I am going to configure and run an Active Directory home lab Enviro
 <img src="https://i.imgur.com/IxWDQzn.png" height="80%" width="80%" />
  <br></br>
 
+- <b>Creating a new VM</b>
+- <b>Add the domain controller</b> 
+<img src="https://i.imgur.com/LOJQ3la.png" height="80%" width="80%" />
+ <br></br>
