@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab, I am going to walk through how to configure and run an Active Directory home lab Environment using Oracle Virtual Box. 
+In this lab, I am going to configure and run an Active Directory home lab Environment using Oracle Virtual Box. 
 
 <h2>Technologies Used</h2>
 
