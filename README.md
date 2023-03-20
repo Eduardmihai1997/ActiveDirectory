@@ -27,8 +27,9 @@ In this lab, I am going to configure and run an Active Directory home lab Enviro
 <img src="https://i.imgur.com/3nOhaPv.png" height="80%" width="80%" />
 <br></br>
 
-- <b>Inspect scan results after remediating some vulnerabilities</b>
-- <b>Remediating vulnerabilities</b>
+- <b>Creating a dedicated Domain Admin Account</b>
+- <b>Make a domain admin</b> 
+- <b>Creating an organizational Unit
 <img src="https://i.imgur.com/RSMyZp9.png" height="80%" width="80%" />
  <br></br>
 
