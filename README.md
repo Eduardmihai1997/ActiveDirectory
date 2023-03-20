@@ -22,9 +22,9 @@ In this lab, I am going to walk through how to configure and run an Active Direc
 <img src="https://i.imgur.com/ms5lRPP.png" height="80%" width="80%"/>
 <br></br>
 
-- <b>Configuring VM for credentialed scans</b>  
-- <b> Inspecting First scan with credentials results</b>
-<img src="https://i.imgur.com/axQY4p1.png" height="80%" width="80%" />
+- <b>Set Up IP Adressing</b>  
+- <b> Installing Active Directory Domain Services</b>
+<img src="https://i.imgur.com/3nOhaPv.png" height="80%" width="80%" />
 <br></br>
 
 - <b>Inspect scan results after remediating some vulnerabilities</b>
